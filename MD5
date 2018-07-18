@@ -1,0 +1,15 @@
+d06ff5df82abbbe66ac20f0229fea2d4 *DESCRIPTION
+ad34036de1ee89e4659c4cf9c654da13 *NAMESPACE
+879ad577d6677188bc8c8e3ba893fad4 *R/momega.R
+272bff9a5e3f6dce2f24f1d19a25df75 *R/omega.R
+b62436cb199d01adbb39e95345a24773 *R/rhov.R
+789676896c595744a8e96c623eccbea6 *R/ta.test.R
+1d045f817fe2ec536517d93a5eb7a1a6 *R/ttest.R
+f7352b89c85bfeaa294f84e2b021de8e *data/Ecadherin.rda
+14b109be67e3d575ecc863f481f12e4e *man/Ecadherin.Rd
+c6e82955ad1398c2e0cb14675659c008 *man/momega.Rd
+1ee0e8d4566a00c0c2ee6f95ada77d4f *man/omega.Rd
+6f3cebd49b2d1312997cf79d08c7de8a *man/rhov.Rd
+12ac19a1c846e31f45306f749cc1fc92 *man/ta.test.Rd
+a8c450ca2662c3c3483bbae22cbace05 *man/tatest-package.Rd
+8e03ae11ce6f984234708dac59a343cd *man/ttest.Rd

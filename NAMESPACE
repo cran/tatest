@@ -1,0 +1,9 @@
+exportPattern("^[[:alpha:]]+")
+#importFrom("as.dendrogram","as.dist","cor")
+#importFrom( "rnbinom", "runif", "var")
+#importFrom("rnorm","t.test")
+importFrom("stats", "complete.cases", "pt", "qt", "rnbinom", "rnorm",
+             "runif", "setNames", "t.test", "var")
+import(utils)
+import(graphics)
+import(grDevices)
